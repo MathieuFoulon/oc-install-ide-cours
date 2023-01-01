@@ -7,6 +7,7 @@ public class BasicExample {
 		;
 		for (index = 0; index < 3; index++) {
 			System.out.println("Hello bugs !");
+			System.out.println("PTDR");
 		}
 	}
 }
